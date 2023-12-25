@@ -1,3 +1,3 @@
 # demo
 demo project
-Authir -Ranga Kavya
+Author -Ranga Kavya
